@@ -1,0 +1,9 @@
+python-dotenv
+groq
+flask
+requests
+SpeechRecognition
+PyAudio
+pyttsx3
+pywebview
+opencv-python

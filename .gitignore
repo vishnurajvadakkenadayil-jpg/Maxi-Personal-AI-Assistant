@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+voice_profile.pkl
+photo_*.png
+photo_*.jpg
+photo_*.jpeg
+*.wav
+*.mp3
+nircmd.exe
+maxi_safe.zip
